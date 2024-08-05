@@ -10,3 +10,7 @@ git push -u origin main
 git remote add origin https://github.com/MeltemKocak/wissenfirstrepo.git
 git branch -M main
 git push -u origin main
+
+git add dosyaadi.txt
+git commit -m "first commit"
+git push -u origin main
